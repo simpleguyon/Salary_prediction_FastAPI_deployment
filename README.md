@@ -1,4 +1,4 @@
-# Salary Prediction MLOps Capstone
+# Salary Prediction MLOps Project
 
 This project trains three salary prediction models, tracks them with MLflow,
 serves the best model with FastAPI, and generates an Evidently AI drift report
